@@ -1,0 +1,175 @@
+.wrapper {
+  position: absolute;
+  height: 500px;
+  width: 350px;
+  border: 10px solid #d0d4d7;
+  background-color: #f69d66;
+  border-radius: 5%;
+}
+
+.photobox {
+  position: relative;
+  height: 200px;
+  width: 300px;
+  border: 5px solid #d0d4d7;
+  background-color: white;
+  top: 45px;
+  left: 25px;
+}
+
+.pokename {
+  position: absolute;
+  height: 20px;
+  width: 350px;
+  left: 20px;
+  top: 5px;
+  font-size:25px;
+}
+.health{
+  position: absolute;
+  height: 20px;
+  width: 350px;
+  left: 265px;
+  top: 3px;
+  font-size:30px;
+}
+.HP{
+  position: absolute;
+  height: 20px;
+  width: 350px;
+  left: 250px;
+  top: 19px;
+  font-size:12px;
+}
+.move1{
+  position: absolute;
+  top: 260px;
+  left: 75px;
+  width:350px;
+  font-size:20px;
+}
+.move2{
+  position: absolute;
+  top: 310px;
+  left: 75px;
+  width:350px;
+  font-size:20px;
+}
+.damage1{
+  position: absolute;
+  top: 260px;
+  left: 285px;
+  width:350px;
+  font-size:20px;
+}
+.damage2{
+  position: absolute;
+  top: 310px;
+  left: 285px;
+  width:350px;
+  font-size:20px;
+}
+
+.fire1{
+  position: absolute;
+  left:315px;
+  top: 5px;
+}
+.fire2{
+  position: absolute;
+  left: 0px;
+  top: 262px;
+}
+.fire3{
+  position: absolute;
+  left:0px;
+  top: 312px;
+}
+.fire4{
+  position: absolute;
+  left:25px;
+  top: 312px;
+}
+.line1{
+  position: absolute;
+  height:5px;
+  width:335px;
+  top:430px;
+  left:7px;
+  background-color: #d0d4d7;
+}
+.line2{
+  position: absolute;
+  height:5px;
+  width: 335px;
+  top: 450px;
+  left:7px;
+  background-color: #d0d4d7;
+}
+.footer{
+  position: absolute;
+  
+  height: 20px;
+  width: 93%;
+  left: 8px;
+
+  top: 457px;
+  font-size:10px;
+}
+.weakness{
+  position: absolute;
+
+  height: 20px;
+  width: 93%;
+  left: 8px;
+
+  top: 437px;
+  font-size:10px;
+}
+.resistance{
+  position: absolute;
+
+  height: 20px;
+  width: 93%;
+  left: 100px;
+
+  top: 437px;
+  font-size:10px;
+}
+.retreat{
+  position: absolute;
+
+  height: 20px;
+  width: 93%;
+  left: 240px;
+
+  top: 437px;
+  font-size:10px;
+}
+  .water{
+    position: absolute;
+    left:40px;
+    top:385px;
+  }
+.energy1{
+  position: absolute;
+  left:245px;
+  top:385px;
+}
+.energy2{
+  position: absolute;
+  left:260px;
+  top:385px;
+}
+.energy3{
+  position: absolute;
+  left:275px;
+  top:385px;
+}
+.yearbook{
+  position: absolute;
+  height: 225px;
+  width: 225px;
+  left: 30px;
+  top: -20px;
+}
